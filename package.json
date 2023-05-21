@@ -13,7 +13,8 @@
   ],
   "author": "Daniel Romero",
   "license": "ISC",
-  "dependencies": {
-    "@types/node": "^20.2.1"
+  "devDependencies": {
+    "@types/node": "^20.2.1",
+    "typescript": "^5.0.4"
   }
 }
