@@ -1,6 +1,6 @@
 {
   "name": "check-diff-conflicts",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "checks diff between files and returns the file with the difference with comments to help solve the conflict",
   "main": "./build/index.js",
   "scripts": {
